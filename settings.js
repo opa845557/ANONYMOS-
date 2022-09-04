@@ -54,7 +54,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ANONYMOS 
+global.vcardowner = ['212 656951326'] //ANONYMOS 
 global.ownername = "🦄Dream Guy Xeon" //ANONYMOS 
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //https://instagram.com/on._doly_.off
